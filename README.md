@@ -1,3 +1,2 @@
-# animation-circle-connect
-animation_practice
-https://charleswein.github.io/animation-circle-connect/
+# AnimateCircle-css
+https://charleswein.github.io/AnimateCircle-css/
